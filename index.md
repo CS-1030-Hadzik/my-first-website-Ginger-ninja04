@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Test Title"
+title: "Awesome Website"
 ---
 
 This is my website
 
-[Link to another page](./another-page.html).
+[Link to another page](./About_Me.html).
 
 There should be whitespace between paragraphs.
 
