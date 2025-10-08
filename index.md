@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My Home Page"
+title: "Test Title"
 ---
 
 This is my website
