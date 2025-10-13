@@ -1,6 +1,6 @@
-title: TEST 123
-author: Author Name
+title: Alex's Awesome Website
+author: Alexander Price
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-google_analytics:
-theme: jekyll-theme-minimal
+description: 2025 Tesla Model 3 Long Range Dual Motor
+google_analytics: Test "Google Analytics"
+theme: jekyll-theme-modernist
